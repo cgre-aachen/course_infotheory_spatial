@@ -1,7 +1,23 @@
 BSD 3-Clause License
 
-Copyright (c) 2019, cgre-aachen
+Copyright (c) 2019, Florian Wellmann, CGRE Group, RWTH Aachen University
 All rights reserved.
+
+
+Lecture Material
+================
+
+Lecture material, including all text in the notebooks, is made available under
+a Creative Commons Attribution License.
+
+
+
+
+Software
+========
+
+If not otherwise indicated, all software in this course is made available under
+the BSD-3-Clause license:
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
