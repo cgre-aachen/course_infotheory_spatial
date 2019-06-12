@@ -6,6 +6,6 @@
 
 Course on information theory with special focus on spatial analyses and multivariate measures
 
-!{CGRE Aachen}(figs/CGRE_logo.png)
+![CGRE Aachen](figs/CGRE_logo.png)
 
 
