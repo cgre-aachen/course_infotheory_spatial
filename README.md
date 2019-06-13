@@ -6,6 +6,18 @@
 
 Course on information theory with special focus on spatial analyses and multivariate measures
 
+
+## Dependencies
+
+
+
+## Installation
+
+- pymc: 
+
+`conda install -c https://conda.binstar.org/pymc pymc`
+
+
 ![CGRE Aachen](figs/CGRE_logo.png)
 
 
